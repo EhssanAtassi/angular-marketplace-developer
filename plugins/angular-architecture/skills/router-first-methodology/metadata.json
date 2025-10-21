@@ -1,0 +1,24 @@
+{
+  "name": "router-first-methodology",
+  "description": "Doguhan Uluca's Router-First Architecture - The 7 steps for designing scalable Angular applications by defining routes before components",
+  "version": "1.0.0",
+  "keywords": [
+    "router-first",
+    "architecture",
+    "doguhan-uluca",
+    "routing",
+    "lazy-loading",
+    "angular-patterns"
+  ],
+  "references": [
+    {
+      "title": "Angular for Enterprise Applications, 3rd Edition",
+      "author": "Doguhan Uluca",
+      "url": "https://github.com/duluca/local-weather-app"
+    },
+    {
+      "title": "Router-First Architecture Guide",
+      "url": "https://angular.io/guide/router"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "rxjs-operators",
+  "description": "Essential RxJS operators and patterns for Angular development - transformation, filtering, combination, and error handling operators",
+  "version": "1.0.0",
+  "keywords": [
+    "rxjs",
+    "operators",
+    "observables",
+    "reactive-programming",
+    "angular",
+    "async"
+  ],
+  "references": [
+    {
+      "title": "RxJS Documentation",
+      "url": "https://rxjs.dev"
+    },
+    {
+      "title": "RxJS Operator Decision Tree",
+      "url": "https://rxjs.dev/operator-decision-tree"
+    },
+    {
+      "title": "Learn RxJS",
+      "url": "https://www.learnrxjs.io"
+    }
+  ]
+}

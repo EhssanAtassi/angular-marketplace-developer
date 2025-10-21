@@ -1,0 +1,23 @@
+{
+  "name": "signals-patterns",
+  "description": "Angular Signals - Modern reactive state management patterns with computed signals, effects, and interoperability with RxJS",
+  "version": "1.0.0",
+  "keywords": [
+    "angular",
+    "signals",
+    "state-management",
+    "reactive",
+    "computed",
+    "effects"
+  ],
+  "references": [
+    {
+      "title": "Angular Signals Documentation",
+      "url": "https://angular.dev/guide/signals"
+    },
+    {
+      "title": "Angular Signals RFC",
+      "url": "https://github.com/angular/angular/discussions/49090"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mocking-patterns",
+  "version": "1.0.0",
+  "description": "Comprehensive guide to mocking patterns, spies, stubs, and test doubles for Angular testing",
+  "author": "Ihsan - Full-Stack Developer & AI Strategist",
+  "tags": ["angular", "testing", "mocking", "spies", "stubs", "test-doubles", "jasmine", "jest", "http-testing"],
+  "category": "testing",
+  "difficulty": "intermediate",
+  "estimatedReadTime": "12 minutes"
+}

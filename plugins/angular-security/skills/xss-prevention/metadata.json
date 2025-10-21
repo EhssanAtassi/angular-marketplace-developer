@@ -1,0 +1,10 @@
+{
+  "name": "xss-prevention",
+  "version": "1.0.0",
+  "description": "Comprehensive XSS prevention strategies, DomSanitizer usage, and Content Security Policy implementation",
+  "author": "Ihsan - Full-Stack Developer & AI Strategist",
+  "tags": ["angular", "security", "xss", "sanitizer", "csp", "injection", "owasp"],
+  "category": "security",
+  "difficulty": "intermediate",
+  "estimatedReadTime": "14 minutes"
+}

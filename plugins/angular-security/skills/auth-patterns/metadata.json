@@ -1,0 +1,10 @@
+{
+  "name": "auth-patterns",
+  "version": "1.0.0",
+  "description": "Secure authentication and authorization patterns including JWT, OAuth2, guards, and role-based access control",
+  "author": "Ihsan - Full-Stack Developer & AI Strategist",
+  "tags": ["angular", "security", "authentication", "authorization", "jwt", "oauth2", "guards", "rbac"],
+  "category": "security",
+  "difficulty": "advanced",
+  "estimatedReadTime": "16 minutes"
+}

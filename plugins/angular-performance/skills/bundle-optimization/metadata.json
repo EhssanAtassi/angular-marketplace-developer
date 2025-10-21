@@ -1,0 +1,10 @@
+{
+  "name": "bundle-optimization",
+  "version": "1.0.0",
+  "description": "Comprehensive guide to Angular bundle optimization, code splitting, tree shaking, and lazy loading strategies",
+  "author": "Ihsan - Full-Stack Developer & AI Strategist",
+  "tags": ["angular", "performance", "bundle", "optimization", "code-splitting", "lazy-loading", "tree-shaking"],
+  "category": "performance",
+  "difficulty": "intermediate",
+  "estimatedReadTime": "15 minutes"
+}

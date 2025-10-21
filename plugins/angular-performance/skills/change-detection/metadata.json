@@ -1,0 +1,10 @@
+{
+  "name": "change-detection",
+  "version": "1.0.0",
+  "description": "Deep dive into Angular change detection optimization, OnPush strategy, Signals, and Zone.js patterns",
+  "author": "Ihsan - Full-Stack Developer & AI Strategist",
+  "tags": ["angular", "performance", "change-detection", "onpush", "signals", "zone", "optimization"],
+  "category": "performance",
+  "difficulty": "advanced",
+  "estimatedReadTime": "18 minutes"
+}

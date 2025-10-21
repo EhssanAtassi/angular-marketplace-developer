@@ -1,0 +1,10 @@
+{
+  "name": "testing-strategies",
+  "version": "1.0.0",
+  "description": "Comprehensive Angular testing strategies, patterns, and best practices for unit, integration, and E2E testing",
+  "author": "Ihsan - Full-Stack Developer & AI Strategist",
+  "tags": ["angular", "testing", "jasmine", "karma", "jest", "cypress", "playwright", "unit-testing", "e2e-testing", "test-patterns"],
+  "category": "testing",
+  "difficulty": "intermediate",
+  "estimatedReadTime": "15 minutes"
+}

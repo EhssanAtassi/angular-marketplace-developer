@@ -1,0 +1,24 @@
+{
+  "name": "enterprise-patterns",
+  "description": "Proven architectural patterns for building scalable Angular applications in enterprise environments with large teams",
+  "version": "1.0.0",
+  "keywords": [
+    "enterprise",
+    "architecture",
+    "patterns",
+    "scalability",
+    "team-structure",
+    "angular-best-practices"
+  ],
+  "references": [
+    {
+      "title": "Angular Style Guide",
+      "url": "https://angular.dev/style-guide"
+    },
+    {
+      "title": "Enterprise Application Architecture",
+      "author": "Martin Fowler",
+      "url": "https://martinfowler.com/eaaCatalog/"
+    }
+  ]
+}
