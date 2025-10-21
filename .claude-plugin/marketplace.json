@@ -1,0 +1,256 @@
+{
+  "name": "my-angular-marketplace",
+  "owner": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://github.com/yourusername"
+  },
+  "metadata": {
+    "description": "Enterprise Angular development marketplace with specialized agents for architecture, development, testing, performance, and security",
+    "version": "2.0.0"
+  },
+  "plugins": [
+    {
+      "name": "angular-architecture",
+      "source": "./plugins/angular-architecture",
+      "description": "Angular architectural design with router-first methodology, enterprise patterns, and scalability planning",
+      "version": "1.0.0",
+      "author": {
+        "name": "Your Name",
+        "url": "https://github.com/yourusername"
+      },
+      "homepage": "https://github.com/yourusername/my-angular-marketplace",
+      "repository": "https://github.com/yourusername/my-angular-marketplace",
+      "license": "MIT",
+      "keywords": [
+        "angular",
+        "architecture",
+        "router-first",
+        "enterprise",
+        "scalability"
+      ],
+      "category": "architecture",
+      "strict": false,
+      "commands": [
+        "./commands/design-architecture.md",
+        "./commands/router-planning.md"
+      ],
+      "agents": [
+        "./agents/angular-architect.md"
+      ],
+      "skills": [
+        "./skills/router-first-methodology",
+        "./skills/micro-frontend-patterns",
+        "./skills/enterprise-angular-patterns"
+      ]
+    },
+    {
+      "name": "angular-development",
+      "source": "./plugins/angular-development",
+      "description": "Angular component development with signals, RxJS, standalone components, and modern Angular 17+ features",
+      "version": "1.0.0",
+      "author": {
+        "name": "Your Name",
+        "url": "https://github.com/yourusername"
+      },
+      "homepage": "https://github.com/yourusername/my-angular-marketplace",
+      "repository": "https://github.com/yourusername/my-angular-marketplace",
+      "license": "MIT",
+      "keywords": [
+        "angular",
+        "development",
+        "signals",
+        "rxjs",
+        "components"
+      ],
+      "category": "development",
+      "strict": false,
+      "commands": [
+        "./commands/create-component.md",
+        "./commands/create-service.md",
+        "./commands/create-directive.md"
+      ],
+      "agents": [
+        "./agents/angular-developer.md"
+      ],
+      "skills": [
+        "./skills/angular-signals-patterns",
+        "./skills/rxjs-advanced-patterns",
+        "./skills/standalone-component-patterns"
+      ]
+    },
+    {
+      "name": "angular-testing",
+      "source": "./plugins/angular-testing",
+      "description": "Comprehensive Angular testing with Jasmine, Karma, Jest, Cypress, and test-driven development",
+      "version": "1.0.0",
+      "author": {
+        "name": "Your Name",
+        "url": "https://github.com/yourusername"
+      },
+      "homepage": "https://github.com/yourusername/my-angular-marketplace",
+      "repository": "https://github.com/yourusername/my-angular-marketplace",
+      "license": "MIT",
+      "keywords": [
+        "angular",
+        "testing",
+        "jasmine",
+        "karma",
+        "cypress",
+        "tdd"
+      ],
+      "category": "testing",
+      "strict": false,
+      "commands": [
+        "./commands/generate-tests.md",
+        "./commands/e2e-tests.md",
+        "./commands/coverage-report.md"
+      ],
+      "agents": [
+        "./agents/angular-tester.md"
+      ],
+      "skills": [
+        "./skills/angular-testing-patterns",
+        "./skills/cypress-best-practices",
+        "./skills/test-driven-angular"
+      ]
+    },
+    {
+      "name": "angular-performance",
+      "source": "./plugins/angular-performance",
+      "description": "Angular performance optimization, bundle analysis, lazy loading, and Core Web Vitals optimization",
+      "version": "1.0.0",
+      "author": {
+        "name": "Your Name",
+        "url": "https://github.com/yourusername"
+      },
+      "homepage": "https://github.com/yourusername/my-angular-marketplace",
+      "repository": "https://github.com/yourusername/my-angular-marketplace",
+      "license": "MIT",
+      "keywords": [
+        "angular",
+        "performance",
+        "optimization",
+        "core-web-vitals",
+        "lazy-loading"
+      ],
+      "category": "performance",
+      "strict": false,
+      "commands": [
+        "./commands/analyze-bundle.md",
+        "./commands/optimize-performance.md",
+        "./commands/lighthouse-audit.md"
+      ],
+      "agents": [
+        "./agents/angular-performance-engineer.md"
+      ],
+      "skills": [
+        "./skills/angular-performance-patterns",
+        "./skills/change-detection-optimization",
+        "./skills/bundle-optimization"
+      ]
+    },
+    {
+      "name": "angular-security",
+      "source": "./plugins/angular-security",
+      "description": "Angular security best practices, CSP implementation, XSS prevention, and authentication patterns",
+      "version": "1.0.0",
+      "author": {
+        "name": "Your Name",
+        "url": "https://github.com/yourusername"
+      },
+      "homepage": "https://github.com/yourusername/my-angular-marketplace",
+      "repository": "https://github.com/yourusername/my-angular-marketplace",
+      "license": "MIT",
+      "keywords": [
+        "angular",
+        "security",
+        "authentication",
+        "xss",
+        "csp",
+        "owasp"
+      ],
+      "category": "security",
+      "strict": false,
+      "commands": [
+        "./commands/security-audit.md",
+        "./commands/implement-auth.md",
+        "./commands/csp-setup.md"
+      ],
+      "agents": [
+        "./agents/angular-security-specialist.md"
+      ],
+      "skills": [
+        "./skills/angular-security-patterns",
+        "./skills/jwt-authentication",
+        "./skills/oauth2-implementation"
+      ]
+    },
+    {
+      "name": "angular-geospatial",
+      "source": "./plugins/angular-geospatial",
+      "description": "Angular GIS/geospatial development with PostGIS, Leaflet, OpenLayers, and spatial data visualization",
+      "version": "1.0.0",
+      "author": {
+        "name": "Your Name",
+        "url": "https://github.com/yourusername"
+      },
+      "homepage": "https://github.com/yourusername/my-angular-marketplace",
+      "repository": "https://github.com/yourusername/my-angular-marketplace",
+      "license": "MIT",
+      "keywords": [
+        "angular",
+        "gis",
+        "geospatial",
+        "postgis",
+        "leaflet",
+        "openlayers",
+        "maps"
+      ],
+      "category": "specialized",
+      "strict": false,
+      "commands": [
+        "./commands/create-map.md",
+        "./commands/spatial-query.md",
+        "./commands/geojson-handler.md"
+      ],
+      "agents": [
+        "./agents/angular-gis-specialist.md"
+      ],
+      "skills": [
+        "./skills/postgis-integration",
+        "./skills/leaflet-patterns",
+        "./skills/spatial-data-handling"
+      ]
+    },
+    {
+      "name": "product-management",
+      "source": "./plugins/product-management",
+      "description": "Product management agent for converting ideas into comprehensive PRDs with user stories and technical specs",
+      "version": "1.0.0",
+      "author": {
+        "name": "Your Name",
+        "url": "https://github.com/yourusername"
+      },
+      "homepage": "https://github.com/yourusername/my-angular-marketplace",
+      "repository": "https://github.com/yourusername/my-angular-marketplace",
+      "license": "MIT",
+      "keywords": [
+        "product-management",
+        "prd",
+        "requirements",
+        "user-stories",
+        "agile"
+      ],
+      "category": "business",
+      "strict": false,
+      "commands": [
+        "./commands/create-prd.md",
+        "./commands/research-feature.md"
+      ],
+      "agents": [
+        "./agents/product-manager.md"
+      ]
+    }
+  ]
+}
