@@ -40,12 +40,12 @@
         "./agents/angular-architect.md"
       ],
       "commands": [
-        "./commands/design-architecture.md",
-        "./commands/scaffold-module.md"
+        "./commands/design-routes.md",
+        "./commands/scaffold-project.md"
       ],
       "skills": [
-        "./skills/router-first-architecture",
-        "./skills/modular-design"
+          "./skills/router-first-methodology/SKILL.md",
+          "./skills/enterprise-patterns/SKILL.md"
       ]
     },
     {
@@ -71,8 +71,8 @@
         "./commands/create-service.md"
       ],
       "skills": [
-        "./skills/signals-reactivity",
-        "./skills/rxjs-patterns"
+        "./skills/signals-patterns/SKILL.md",
+        "./skills/rxjs-operators/SKILL.md"
       ]
     },
     {
@@ -98,8 +98,8 @@
         "./commands/run-e2e.md"
       ],
       "skills": [
-        "./skills/testing-strategies",
-        "./skills/mocking-patterns"
+        "./skills/testing-strategies/SKILL.md",
+        "./skills/mocking-patterns/SKILL.md"
       ]
     },
     {
@@ -125,8 +125,8 @@
         "./commands/analyze-bundle.md"
       ],
       "skills": [
-        "./skills/change-detection",
-        "./skills/bundle-optimization"
+        "./skills/change-detection/SKILL.md",
+        "./skills/bundle-optimization/SKILL.md"
       ]
     },
     {
@@ -152,8 +152,8 @@
         "./commands/audit-security.md"
       ],
       "skills": [
-        "./skills/xss-prevention",
-        "./skills/auth-patterns"
+        "./skills/xss-prevention/SKILL.md",
+        "./skills/auth-patterns/SKILL.md"
       ]
     },
     {
