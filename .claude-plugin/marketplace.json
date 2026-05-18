@@ -6,16 +6,16 @@
     "url": "https://github.com/EhssanAtassi"
   },
   "metadata": {
-    "description": "Complete Angular Enterprise Marketplace - Router-First Architecture, Testing, Performance, Security & GIS",
+    "description": "Complete Angular Enterprise Marketplace - Router-First Architecture, Development, Testing, Performance & Security",
     "version": "1.0.0",
     "license": "MIT",
     "keywords": [
       "angular",
       "architecture",
+      "development",
       "testing",
       "performance",
       "security",
-      "gis",
       "router-first",
       "enterprise"
     ]
@@ -30,8 +30,8 @@
         "name": "Ihsan - Full-Stack Developer & AI Strategist",
         "url": "https://github.com/EhssanAtassi"
       },
-      "homepage": "https://github.com/EhssanAtassi/angular-marketplace",
-      "repository": "https://github.com/EhssanAtassi/angular-marketplace",
+      "homepage": "https://github.com/EhssanAtassi/angular-marketplace-developer",
+      "repository": "https://github.com/EhssanAtassi/angular-marketplace-developer",
       "license": "MIT",
       "keywords": ["angular", "architecture", "router-first", "enterprise", "modular"],
       "category": "architecture",
@@ -57,8 +57,8 @@
         "name": "Ihsan - Full-Stack Developer & AI Strategist",
         "url": "https://github.com/EhssanAtassi"
       },
-      "homepage": "https://github.com/EhssanAtassi/angular-marketplace",
-      "repository": "https://github.com/EhssanAtassi/angular-marketplace",
+      "homepage": "https://github.com/EhssanAtassi/angular-marketplace-developer",
+      "repository": "https://github.com/EhssanAtassi/angular-marketplace-developer",
       "license": "MIT",
       "keywords": ["angular", "development", "signals", "rxjs", "standalone"],
       "category": "development",
@@ -84,8 +84,8 @@
         "name": "Ihsan - Full-Stack Developer & AI Strategist",
         "url": "https://github.com/EhssanAtassi"
       },
-      "homepage": "https://github.com/EhssanAtassi/angular-marketplace",
-      "repository": "https://github.com/EhssanAtassi/angular-marketplace",
+      "homepage": "https://github.com/EhssanAtassi/angular-marketplace-developer",
+      "repository": "https://github.com/EhssanAtassi/angular-marketplace-developer",
       "license": "MIT",
       "keywords": ["angular", "testing", "jasmine", "jest", "cypress", "playwright"],
       "category": "testing",
@@ -111,8 +111,8 @@
         "name": "Ihsan - Full-Stack Developer & AI Strategist",
         "url": "https://github.com/EhssanAtassi"
       },
-      "homepage": "https://github.com/EhssanAtassi/angular-marketplace",
-      "repository": "https://github.com/EhssanAtassi/angular-marketplace",
+      "homepage": "https://github.com/EhssanAtassi/angular-marketplace-developer",
+      "repository": "https://github.com/EhssanAtassi/angular-marketplace-developer",
       "license": "MIT",
       "keywords": ["angular", "performance", "optimization", "onpush", "bundle"],
       "category": "performance",
@@ -138,8 +138,8 @@
         "name": "Ihsan - Full-Stack Developer & AI Strategist",
         "url": "https://github.com/EhssanAtassi"
       },
-      "homepage": "https://github.com/EhssanAtassi/angular-marketplace",
-      "repository": "https://github.com/EhssanAtassi/angular-marketplace",
+      "homepage": "https://github.com/EhssanAtassi/angular-marketplace-developer",
+      "repository": "https://github.com/EhssanAtassi/angular-marketplace-developer",
       "license": "MIT",
       "keywords": ["angular", "security", "xss", "authentication", "owasp"],
       "category": "security",
