@@ -1,3 +1,8 @@
+---
+name: enterprise-patterns
+description: "Proven architectural patterns for building scalable Angular applications in enterprise environments with large teams"
+---
+
 # Enterprise Angular Patterns
 
 Proven architectural patterns for building scalable Angular applications in enterprise environments with teams of 5-100+ developers.

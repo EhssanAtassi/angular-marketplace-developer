@@ -1,3 +1,8 @@
+---
+name: bundle-optimization
+description: "Comprehensive guide to Angular bundle optimization, code splitting, tree shaking, and lazy loading strategies"
+---
+
 # Angular Bundle Optimization
 
 Complete guide to reducing Angular bundle sizes through code splitting, tree shaking, and lazy loading.

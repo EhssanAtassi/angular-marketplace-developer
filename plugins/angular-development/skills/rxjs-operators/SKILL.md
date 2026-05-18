@@ -1,3 +1,8 @@
+---
+name: rxjs-operators
+description: "Essential RxJS operators and patterns for Angular development - transformation, filtering, combination, and error handling operators"
+---
+
 # RxJS Operators for Angular
 
 **Purpose:** Essential RxJS operators every Angular developer should master  

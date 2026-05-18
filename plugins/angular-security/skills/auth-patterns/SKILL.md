@@ -1,3 +1,8 @@
+---
+name: auth-patterns
+description: "Secure authentication and authorization patterns including JWT, OAuth2, guards, and role-based access control"
+---
+
 # Authentication & Authorization Patterns
 
 Complete guide to secure authentication and authorization in Angular applications.

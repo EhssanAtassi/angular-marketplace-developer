@@ -1,3 +1,8 @@
+---
+name: router-first-methodology
+description: "Doguhan Uluca's Router-First Architecture - The 7 steps for designing scalable Angular applications by defining routes before components"
+---
+
 # Router-First Methodology
 
 **Author:** Doguhan Uluca  

@@ -1,3 +1,8 @@
+---
+name: xss-prevention
+description: "Comprehensive XSS prevention strategies, DomSanitizer usage, and Content Security Policy implementation"
+---
+
 # XSS Prevention in Angular
 
 Complete guide to preventing Cross-Site Scripting (XSS) attacks in Angular applications.

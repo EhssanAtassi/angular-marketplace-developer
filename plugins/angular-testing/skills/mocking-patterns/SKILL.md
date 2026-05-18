@@ -1,3 +1,8 @@
+---
+name: mocking-patterns
+description: "Comprehensive guide to mocking patterns, spies, stubs, and test doubles for Angular testing"
+---
+
 # Angular Mocking Patterns
 
 Comprehensive guide to mocking patterns, test doubles, spies, and HTTP testing in Angular applications.

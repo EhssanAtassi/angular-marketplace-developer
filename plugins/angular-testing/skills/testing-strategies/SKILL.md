@@ -1,3 +1,8 @@
+---
+name: testing-strategies
+description: "Comprehensive Angular testing strategies, patterns, and best practices for unit, integration, and E2E testing"
+---
+
 # Angular Testing Strategies
 
 Comprehensive guide to testing strategies, patterns, and best practices for Angular applications.

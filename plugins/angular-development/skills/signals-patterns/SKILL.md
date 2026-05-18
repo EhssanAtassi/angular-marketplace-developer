@@ -1,3 +1,8 @@
+---
+name: signals-patterns
+description: "Angular Signals - Modern reactive state management patterns with computed signals, effects, and interoperability with RxJS"
+---
+
 # Angular Signals Patterns
 
 **Version:** Angular 16+  

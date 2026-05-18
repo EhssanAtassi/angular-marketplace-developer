@@ -1,3 +1,8 @@
+---
+name: change-detection
+description: "Deep dive into Angular change detection optimization, OnPush strategy, Signals, and Zone.js patterns"
+---
+
 # Angular Change Detection Optimization
 
 Comprehensive guide to Angular change detection, OnPush strategy, Signals, and Zone.js optimization.
