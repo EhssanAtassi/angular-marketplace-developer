@@ -155,33 +155,6 @@
         "./skills/xss-prevention/SKILL.md",
         "./skills/auth-patterns/SKILL.md"
       ]
-    },
-    {
-      "name": "angular-gis",
-      "source": "./plugins/angular-gis",
-      "description": "GIS integration with Leaflet, OpenLayers, PostGIS, and spatial data visualization",
-      "version": "1.0.0",
-      "author": {
-        "name": "Ihsan - Full-Stack Developer & AI Strategist",
-        "url": "https://github.com/EhssanAtassi"
-      },
-      "homepage": "https://github.com/EhssanAtassi/angular-marketplace",
-      "repository": "https://github.com/EhssanAtassi/angular-marketplace",
-      "license": "MIT",
-      "keywords": ["angular", "gis", "leaflet", "openlayers", "postgis", "maps"],
-      "category": "specialized",
-      "strict": false,
-      "agents": [
-        "./agents/angular-gis-specialist.md"
-      ],
-      "commands": [
-        "./commands/create-map.md",
-        "./commands/spatial-query.md"
-      ],
-      "skills": [
-        "./skills/leaflet-integration",
-        "./skills/postgis-queries"
-      ]
     }
   ]
 }
